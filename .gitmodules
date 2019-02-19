@@ -1,0 +1,3 @@
+[submodule "stressapptest"]
+	path = stressapptest
+	url = https://github.com/stressapptest/stressapptest
